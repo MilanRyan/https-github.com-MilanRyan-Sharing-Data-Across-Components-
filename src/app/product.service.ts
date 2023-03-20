@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 @Injectable()
 export class ProductService {
   constructor() {}
-  Product() {
+  Product() { 
     return [
       {
         prod_id: 'P - 101',

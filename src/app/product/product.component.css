@@ -20,17 +20,10 @@ td {
   font-size: 0.9375rem;
 }
 
-th {
-  /* header cell */
-  font-weight: 700;
-  text-align: left;
-  color: #272838;
-  border-bottom: 2px solid #eb9486;
-
-  position: sticky;
-  top: 0;
-  background-color: #f9f8f8;
+thead {
+  background-color: lightblue;
 }
+
 
 td {
   /* body cell */

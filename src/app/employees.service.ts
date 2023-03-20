@@ -25,9 +25,9 @@ export class EmployeesService {
       },
       {
         id: 104,
-        firstname: 'Noie Glenn',
-        lastname: 'Manoy',
-        email: 'noiemanoy.work@gmail.com',
+        firstname: 'Ryan',
+        lastname: 'Milan',
+        email: 'ryanmilan03@yahoo.com',
       },
     ];
   }
